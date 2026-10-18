@@ -5,7 +5,7 @@
 *   💻 Aktif sebagai **Web Developer** yang fokus membangun aplikasi web modern, responsif, dan aman.
 *   🛡️ Hobi mencari celah keamanan sebagai seorang **Bug Hunter** di waktu luang.
 *   ⚽ Ketika tidak sedang di depan layar, Anda bisa menemukan saya di lapangan sedang bermain **Futsal**.
-*   ⚡ Fakta unik: Saya melihat *coding* seperti taktik futsal—harus presisi, cepat, dan minim kesalahan (*zero bugs*).
+*   ⚡ Fakta unik: Saya melihat *coding* seperti taktik futsal harus presisi, cepat, dan minim kesalahan (*zero bugs*).
 
 ---
 
