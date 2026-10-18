@@ -10,7 +10,7 @@ Mahasiswa Teknik Informatika | Web Developer | Bug Hunter
 *   💻 **Fokus:** Web Developer yang berfokus pada pengembangan aplikasi web yang modern, interaktif, dan aman.
 *   🛡️ **Minat Khusus:** Aktif sebagai Bug Hunter untuk mencari dan melaporkan celah keamanan aplikasi web di waktu luang.
 *   ⚽ **Hobi:** Gemar bermain futsal untuk menjaga stamina dan kerja sama tim di luar dunia coding.
-*   ⚡ **Fakta Unik:** Bagi saya, menulis kode itu mirip taktik futsal—harus cepat, presisi, dan minim kesalahan (zero bugs).
+*   ⚡ **Fakta Unik:** Bagi saya, menulis kode itu mirip taktik futsal harus cepat, presisi, dan minim kesalahan (zero bugs).
 
 ---
 
