@@ -1,6 +1,6 @@
 # Halo, Saya Kizozo77!
 
-Mahasiswa Teknik Informatika | Web Developer | Bug Hunter | Futsal Enthusiast
+Mahasiswa Teknik Informatika | Web Developer | Bug Hunter
 
 ---
 
