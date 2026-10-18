@@ -1,9 +1,5 @@
 # 👋 Halo, Saya Kizozo77!
 
-<p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
-</p>
-
 ### 👨‍💻 Tentang Saya
 *   🎓 Saat ini saya adalah mahasiswa **Teknik Informatika**.
 *   💻 Aktif sebagai **Web Developer** yang fokus membangun aplikasi web modern, responsif, dan aman.
